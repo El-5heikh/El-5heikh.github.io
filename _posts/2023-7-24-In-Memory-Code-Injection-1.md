@@ -134,7 +134,7 @@ uint ProcInfoLen, ref uint retlen);
 | int procInformationClass  | Set this to ProcessBasicInformation with a numerical representation of "0"     |
 | ref PROCESS_BASIC_INFORMATION procInformation    | We need to pass an object to specify the process information.  |
 | uint ProcInfoLen  | The process information length (The size of the input structure)   |
-| ref uint retlen| The size of the of the fetched data |
+| ref uint retlen| The size of the fetched data |
 {: .tablelines}
 
 We need to pass PROCESS_BASIC_INFORMATION object to ZwQueryInformationProcess API.
