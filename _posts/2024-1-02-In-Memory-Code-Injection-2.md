@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unleashing the Power of In-Memory Code Injection Part-II .
-description: "In-Memory Code Injection"
+description: "In-Memory Code Injection, Windows defender"
 modified: 2024-1-02
 tags: [In-Memory Code Injection, Malware]
 image:
