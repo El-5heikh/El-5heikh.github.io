@@ -10,15 +10,15 @@ modified: 2022-12-11
 
 Hi, I am Salah ElShiekh. Thanks for your interest.
 
-
 ## I Do.
 
-* Web Pentration Testing.
+* Web Penetration Testing.
 * Network Penetration Testing
-* Android Penetration Testing
-* Source Code Review.
-* Some of Red-Teaming staff
+* Source Code Review for Web Apps.
+* Some of Red Team stuff
 
 ## Find Me @.
 
 * [LinkedIn](https://www.linkedin.com/in/selsheikh/)
+
+* [X.com](https://x.com/El5heikh)
